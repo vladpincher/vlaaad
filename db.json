@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "firstName": "Parrot",
+      "lastName": "One",
+      "tel": "+7  (999) 999-99-91",
+      "id": 1
+    },
+    {
+      "firstName": "Parrot",
+      "lastName": "Two",
+      "tel": "+7  (999) 999-99-92",
+      "id": 2
+    }
+  ]
+}
